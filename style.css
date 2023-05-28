@@ -1,0 +1,94 @@
+body {
+	margin: auto 0;
+}
+
+.container {
+	height: vh 100vmax;
+	width: vw 100vmax;
+	border-style: solid;
+	border-color: red;
+	display: flex;
+}
+
+.navBox {
+	height: 50px;
+	width: 20%;
+	border-style: solid;
+	border-color: green;
+
+}
+
+.calBox {
+	height: auto;
+	width: 100%;
+	border-style: solid;
+	border-color: blue;
+}
+
+
+.nav {
+	border-style: solid;
+	border-color: yellow;
+	background-color: lightgoldenrodyellow;
+	display: flex;
+	margin: 1rem;
+	justify-content: center;
+}
+
+.cal {
+	border-style: solid;
+	border-color: deeppink;
+	background-color: lightpink;
+	display: flex;
+	margin: 10rem;
+	justify-content: center;
+
+}
+/*.view {
+	display: flex;
+	flex-direction: row;
+}
+
+nav {
+	border-color: red;
+	border-width: 3px;
+	border-style: solid;
+	display: flex;
+	align-content: center;
+	height: 4rem;
+}
+
+.navExpand {
+	display: flex;
+	width: 3rem;
+	height: 2.3rem;
+	border-style: solid;
+	border-color: yellow;
+	border-width: 3px;
+	padding: 10px;
+	align-content: center;
+	justify-content: center;
+}
+
+.buttonNav {
+	border-style: solid;
+	border-color: mediumpurple;
+	border-width: 3px;
+}
+
+.container {
+	display: flex;
+	border-style: solid;
+	border-color: green;
+	border-width: 3px;
+	height: 100vh;
+	width: 100vw;
+}
+
+.belowNav {
+	display: flex;
+	border-width: 3px;
+	border-style: solid;
+	border-color: black;
+	
+}*/
